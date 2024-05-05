@@ -1,5 +1,7 @@
 
-# React + Vite
+# First React + Vite Project
+- create new project
+    - npm create vite@latest
 
 
 # Install icons
