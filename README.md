@@ -1,3 +1,23 @@
+
+# Install icons
+- npm install react-icons
+
+# Install server
+- npm install json-server
+
+# Install uuidv4 
+- npm I uuidv4
+
+# Install localStorage
+- npm install local-storage
+
+# Install Dependencies
+- npm install @auth0/auth0-react 
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
