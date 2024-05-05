@@ -1,0 +1,39 @@
+{
+  "users": [
+    
+    {
+      "id": 1,
+      "name": "Kunnikar",
+      "email": "kunnikarboon@gmail.com",
+      "password": "123" 
+    },
+
+    {
+      "id": 2,
+      "name": "Amirhossein",
+      "email": "shayankarmand@gmail.com",
+      "password": "456"
+    },
+      
+      {
+        "id": 3,
+        "name": "Rafia",
+        "email": "likerafia@hotmail.com"
+      }
+  ],
+
+  "items" : [
+    {
+      "id": 1,
+      "title": "Eggs",
+      "completed": false
+    },
+    
+    {
+      "id": 2,
+      "title": "Test server!",   
+      "completed": false
+    }   
+  ]
+}
+
