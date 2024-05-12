@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <>
       <footer >
-          <p><MdCopyright />Project by : <MdAccountCircle style={{ color: "hsl(200, 100%, 90%)"}} />Amirhossein <MdAccountCircle style={{ color: "hsl(200, 100%, 90%)"}} />Rafia <MdAccountCircle style={{ color: "hsl(200, 100%, 90%)"}} />Kunnikar</p>
+          <p><MdCopyright />Project by : <MdAccountCircle style={{ color: "magenta"}} />Kunnikar</p>
             
         </footer>
     </>

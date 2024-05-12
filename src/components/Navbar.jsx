@@ -11,7 +11,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid header">
         <a className="navbar-brand" href= "#" >
-          Shopping App <MdShoppingCart />
+          Grocery <MdShoppingCart style={{ marginRight: "5em"}} />
         </a>
         
         <button

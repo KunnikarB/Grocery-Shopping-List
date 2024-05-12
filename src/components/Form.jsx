@@ -26,7 +26,7 @@ export function Form({ onSubmit }) {
             value={newItem}
             onChange={e => setNewItem(e.target.value)}
             type="text"
-            id="item"
+            id="item" 
           />
         </div>
 
