@@ -13,7 +13,8 @@
     "server": "json-server --watch db.json --port 6001",
     "start": "npm run server & npm run dev",
     "predeploy": "npm run build",
-    "deploy": "gh-page -d build"
+    "deploy": "gh-pages -d dist",
+    "clean": "rm -rf dist"
 
   },
   "dependencies": {
